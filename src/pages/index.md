@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Web Programming with a conscience made change again
+title: Web Programming with a conscience for today
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
